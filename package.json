@@ -7,7 +7,8 @@
     "dev:browser": "vite",
     "build:browser": "vite build",
     "preview:browser": "vite preview",
-    "dev": "tauri dev"
+    "dev": "tauri dev",
+    "build": "tauri build"
   },
   "dependencies": {
     "@tauri-apps/api": "^1",
